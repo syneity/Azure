@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureService", "AzureService\AzureService.ccproj", "{5C869519-D55D-45CB-919B-FFACD286C148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureService.Services.WCF", "AzureService.Services.WCF\AzureService.Services.WCF.csproj", "{E228599E-B787-4D58-BD3E-EEEBEC801F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C869519-D55D-45CB-919B-FFACD286C148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C869519-D55D-45CB-919B-FFACD286C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C869519-D55D-45CB-919B-FFACD286C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C869519-D55D-45CB-919B-FFACD286C148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E228599E-B787-4D58-BD3E-EEEBEC801F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E228599E-B787-4D58-BD3E-EEEBEC801F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E228599E-B787-4D58-BD3E-EEEBEC801F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E228599E-B787-4D58-BD3E-EEEBEC801F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
